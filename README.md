@@ -78,19 +78,4 @@ portfolio/
 
 ---
 
-## 📌 Future Improvements
-
-* Add backend contact form
-* Deploy on GitHub Pages / Netlify
-* Add more real-world projects
-* Improve accessibility and SEO
-
----
-
-
-
-If you want, I can also:
-✔ Make this more **ATS-friendly for recruiters**
-✔ Add **project descriptions (important for placement)**
-✔ Help you **deploy it on GitHub Pages step-by-step**
 
